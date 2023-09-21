@@ -1,0 +1,19 @@
+add_force {/ALU/Control} -radix bin {000 0ns}
+add_force {/ALU/A} -radix hex {8 0ns}
+add_force {/ALU/B} -radix hex {5 0ns}
+add_force {/ALU/Cin} -radix hex {1 0ns}
+run 20 s
+add_force {/ALU/Control} -radix bin {001 0ns}
+run 20 s
+add_force {/ALU/Control} -radix hex {010 0ns}
+run 20 s
+add_force {/ALU/Control} -radix bin {011 0ns}
+run 20 s
+add_force {/ALU/Control} -radix bin {100 0ns}
+run 20 s
+add_force {/ALU/Control} -radix bin {101 0ns}
+run 20 s
+add_force {/ALU/Control} -radix bin {110 0ns}
+run 20 s
+add_force {/ALU/Control} -radix bin {111 0ns}
+run 20 s

@@ -1,0 +1,8 @@
+add_force {/subtractor_4bit/A} -radix bin {1001 0ns}
+add_force {/subtractor_4bit/B} -radix bin {0011 0ns}
+add_force {/subtractor_4bit/bin} -radix hex {1 0ns}
+run 20 s
+add_force {/subtractor_4bit/A} -radix bin {0011 0ns}
+add_force {/subtractor_4bit/B} -radix bin {0110 0ns}
+add_force {/subtractor_4bit/bin} -radix hex {1 0ns}
+run 20 s

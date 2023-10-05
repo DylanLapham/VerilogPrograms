@@ -1,7 +1,7 @@
 `timescale 1ns / 1ps
 //////////////////////////////////////////////////////////////////////////////////
 // Company: 
-// Engineer: Dylan Lapham & Jae Yong Yu
+// Engineer: Dylan Lapham
 // 
 // Create Date: 09/19/2023 11:43:11 PM
 // Design Name: Package sorter

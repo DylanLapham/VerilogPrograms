@@ -5,7 +5,7 @@ This repository catalogs my programming journey with the Hardware Description La
 
 Initial program - Simply a blinking light on LED 0. Blinky is generally the starter program in hardware stuff. Comparable to "Hello, World!" in a general language like C.
 
-Problem Set 1: 
+**Problem Set 1:** 
   Subtractor - A 1-bit full subtractor described using logic functions derived from a truth table for a full subtractor. A second module is included which instantiates 4 of the single-bit subtractors and creates a 4-bit subtractor.   
   Associated TCL commands are given for testing cases.
 
@@ -13,6 +13,8 @@ Problem Set 1:
 
   Subtractor on a physical FPGA - An XDC constraints file is given corresponding to assignments to switches and LEDs. The code is the same as the subtractor.v file.
 
-  Problem Set 2: 
-    Package sorter - A package sorter that classifies packages based on different criteria as well as their weights. A test-bench is given along with the source code testing an input sequence of weights Traffic light controller - Traffic light controller that has an A street, B street, and a pedestrian crosswalk.
+  **Problem Set 2:** 
+    Package sorter - A package sorter that classifies packages based on different criteria as well as their weights. A test-bench is given along with the source code testing an input sequence of weights 
+    
+    Traffic light controller - Traffic light controller that has an A street, B street, and a pedestrian crosswalk.
     

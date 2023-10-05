@@ -13,5 +13,8 @@ Problem Set 1:
 
   Subtractor on a physical FPGA - An XDC constraints file is given corresponding to assignments to switches and LEDs. The code is the same as the subtractor.v file.
 
-  Problem Set 2:
+  Problem Set 2: 
+    Package sorter - A package sorter that classifies packages based on different criteria as well as their weights. A test-bench is given along with the source code testing an input sequence of weights
+
+    Traffic light controller - Traffic light controller that has an A street, B street, and a pedestrian crosswalk.
     

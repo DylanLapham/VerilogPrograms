@@ -15,6 +15,5 @@ Initial program - Simply a blinking light on LED 0. Blinky is generally the star
 
   **Problem Set 2:** 
     Package sorter - A package sorter that classifies packages based on different criteria as well as their weights. A test-bench is given along with the source code testing an input sequence of weights 
-    
     Traffic light controller - Traffic light controller that has an A street, B street, and a pedestrian crosswalk.
     
